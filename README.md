@@ -1,0 +1,1 @@
+This repository demonstrates a common type error in TypeScript and its solution. The bug is caused by passing a string argument to a function that expects a number. The solution shows how to use type guards to handle this situation. 
